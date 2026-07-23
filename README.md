@@ -7,7 +7,7 @@
 
 ## 📋 Deskripsi
 
-Website portofolio pribadi yang dibangun menggunakan **Laravel 11**. Menampilkan proyek-proyek, sertifikat, dan informasi kontak dalam satu platform yang elegan dan responsif. Dilengkapi dengan fitur admin dashboard untuk mengelola konten secara dinamis.
+Website portofolio pribadi yang dibangun menggunakan **Laravel 11**. Menampilkan proyek-proyek, sertifikat dan informasi kontak dalam satu platform yang elegan dan responsif. Dilengkapi dengan fitur admin dashboard untuk mengelola konten secara dinamis.
 
 ## ✨ Fitur
 
